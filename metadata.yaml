@@ -2,5 +2,5 @@ homepage: "https://github.com/hashbookies"
 documentation: "https://github.com/hashbookies/gtm-visible-ai-referral-classifier#readme"
 
 versions:
-  - sha: "f76186473c9c76dcfc25ff20c1e72a22a14aeb20"
+  - sha: "d453a1a338a61aab7eae203a710faed343dfdc77"
     changeNotes: "Initial release."
