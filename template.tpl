@@ -16,7 +16,7 @@ ___INFO___
   "categories": [
     "ATTRIBUTION",
     "ANALYTICS",
-    "UTILITY"
+    "UTILITIES"
   ],
   "description": "Classifies identifiable AI-driven sessions using utm_source and referrer signals when those signals are available.",
   "containerContexts": [
