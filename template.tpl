@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "type": "MACRO",
-  "id": "cvt_dd_visible_ai_referral_classifier",
+  "id": "cvt_tk_visible_ai_referral_classifier",
   "version": 1,
   "displayName": "Visible AI Referral / UTM Classifier",
   "categories": [
